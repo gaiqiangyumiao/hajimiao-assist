@@ -11,9 +11,12 @@ pnpm-debug.log*
 
 auto-imports.d.ts
 components.d.ts
+<<<<<<< HEAD
 
 # 个人数据 / 卡数据 / 回滚备份
 自动同步/
 示例/
 .tsv_undo/
 tavern_sync.yaml
+=======
+>>>>>>> fe7d6686eaa214f144c2a734be2e26ca399f3d3d
