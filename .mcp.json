@@ -2,7 +2,11 @@
   "mcpServers": {
     "chrome-devtools": {
       "command": "pnpx",
+<<<<<<< HEAD
       "args": ["chrome-devtools-mcp@latest", "--browserUrl", "http://127.0.0.1:9220"]
+=======
+      "args": ["chrome-devtools-mcp@latest", "--autoConnect"]
+>>>>>>> 6bdf7c9c487192089e80293da029e2345f543a90
     }
   }
 }
